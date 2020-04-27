@@ -2,7 +2,7 @@
 @import url('./__link/nav__link.css');
 
 .nav {
-  margin-left: calc(100vw - (948px + 425px));
+  margin-left: calc(100% - (948px + 425px));
   max-width: 948px;
   display: flex;
   justify-content: space-between;

@@ -1,4 +1,9 @@
 @import url('../header/__bg/header__bg.css');
+@import url('../header/__article/header__article.css');
+@import url('../header/__title/header__title.css');
+@import url('../header/__subtitle/header__subtitle.css');
+@import url('../header/__button/header__button.css');
+@import url('../header/__slide/header__slide.css');
 
 .header {
   position: relative;
