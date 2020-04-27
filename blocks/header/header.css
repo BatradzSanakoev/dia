@@ -1,0 +1,9 @@
+@import url('../header/__bg/header__bg.css');
+
+.header {
+  position: relative;
+  max-width: 100%;
+  min-height: 1273px;
+  padding-top: 48px;
+  overflow: hidden;
+}

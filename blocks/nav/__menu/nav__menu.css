@@ -1,0 +1,5 @@
+.nav__menu {
+  display: flex;
+  justify-content: space-between;
+  min-width: calc(100% - (53px + 54px + 143px + 135px));
+}

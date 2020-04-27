@@ -1,0 +1,10 @@
+@import url('./_begin/nav__link-begin.css');
+@import url('./_end/nav__link-end.css');
+
+.nav__link {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 150%;
+}
