@@ -1,0 +1,9 @@
+@import url('../__text/_blue/header__text_blue.css');
+
+.header__text {
+  margin: 0;
+  font-weight: 900;
+  font-size: 19.6px;
+  line-height: 140%;
+  color: #FFFFFF;
+}

@@ -3,7 +3,10 @@
 @import url('../header/__title/header__title.css');
 @import url('../header/__subtitle/header__subtitle.css');
 @import url('../header/__button/header__button.css');
-@import url('../header/__slide/header__slide.css');
+@import url('../header/__photo/header__photo.css');
+@import url('../header/__content-text/header__content-text.css');
+@import url('../header/__text/header__text.css');
+@import url('../header/__slider/header__slider.css');
 
 .header {
   position: relative;

@@ -1,6 +1,6 @@
 .header__bg {
   position: absolute;
-  top: -170px;
-  left: 0;
+  top: -12px;
+  left: -75px;
   z-index: -1;
 }
