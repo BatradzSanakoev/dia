@@ -1,0 +1,15 @@
+.steps__card-content_blue {
+  border: 1px solid #56ccf2;
+}
+
+.steps__card-content_green {
+  border: 1px solid #1cd955;
+}
+
+.steps__card-content_orange {
+  border: 1px solid #fccc2b;
+}
+
+.steps__card-content_red {
+  border: 1px solid #f36060;
+}

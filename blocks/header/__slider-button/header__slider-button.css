@@ -1,0 +1,6 @@
+.header__slider-button {
+  position: absolute;
+  left: 140px;
+  bottom: 285px;
+  z-index: 1;
+}

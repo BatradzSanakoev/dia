@@ -1,0 +1,15 @@
+@import url('./_colors/steps__card-content_colors.css');
+
+.steps__card-content {
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 66px;
+  padding: 0 2rem 3rem;
+  box-sizing: border-box;
+  border-radius: 10%;
+}

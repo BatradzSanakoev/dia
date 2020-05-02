@@ -1,0 +1,8 @@
+@import url('./_under_part/steps__paragraph_under_part.css');
+
+.steps__paragraph {
+  margin: 4rem 0 0;
+  font-size: 1rem;
+  line-height: 150%;
+  color: #334563;
+}

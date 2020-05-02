@@ -1,0 +1,16 @@
+@import url('./__head/clients__head.css');
+@import url('./__icon/clients__icon.css');
+@import url('./__desc/clients__desc.css');
+@import url('./__title/clients__title.css');
+@import url('./__items/clients__items.css');
+@import url('./__item/clients__item.css');
+@import url('./__photo/clients__photo.css');
+@import url('./__text/clients__text.css');
+@import url('./__line/clients__line.css');
+@import url('./__name/clients__name.css');
+@import url('./__ceo/clients__ceo.css');
+
+.clients {
+  background-color: #ffffff;
+  padding-top: 10rem;
+}

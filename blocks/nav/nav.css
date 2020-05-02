@@ -2,8 +2,8 @@
 @import url('./__link/nav__link.css');
 
 .nav {
-  margin-left: calc(100% - (948px + 425px));
-  max-width: 948px;
+  margin-left: calc(100% - (948px + 425px));  
+  max-width: 59%;
   display: flex;
   justify-content: space-between;
 }

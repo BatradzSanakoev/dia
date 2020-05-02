@@ -1,0 +1,10 @@
+@import url('./_colors/steps__card-eclipse_colors.css');
+
+.steps__card-eclipse {
+  opacity: .1;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  top: 48px;
+}

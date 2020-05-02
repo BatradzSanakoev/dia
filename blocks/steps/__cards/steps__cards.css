@@ -1,0 +1,9 @@
+@import url('./_columns/steps__cards_columns.css');
+
+.steps__cards {
+  position: absolute;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}

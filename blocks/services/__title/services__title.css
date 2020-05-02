@@ -1,0 +1,10 @@
+.services__title {
+  margin: 0 auto;
+  position: relative;
+  top: -25px;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 100%;
+  text-align: center;
+  color: #253757;
+}

@@ -6,12 +6,14 @@
 @import url('../header/__photo/header__photo.css');
 @import url('../header/__content-text/header__content-text.css');
 @import url('../header/__text/header__text.css');
-@import url('../header/__slider/header__slider.css');
+@import url('../header/__slider-button/header__slider-button.css');
+@import url('../header/__content/header__content.css');
+@import url('../header/__social/header__social.css');
+@import url('../header/__social-link/header__social-link.css');
 
 .header {
   position: relative;
   max-width: 100%;
-  min-height: 1273px;
-  padding-top: 48px;
+  padding-top: 3rem;
   overflow: hidden;
 }

@@ -4,3 +4,9 @@
   font-weight: normal;
 }
 
+@font-face {
+  src: url(./Muli-ExtraBold.ttf);
+  font-family: 'Muli';
+  font-weight: bold;
+}
+

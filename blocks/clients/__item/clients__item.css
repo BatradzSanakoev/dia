@@ -1,0 +1,21 @@
+.clients__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 314px;
+  height: 464px;
+  box-shadow: 8px 8px 17px #f2f2f3;
+  margin-right: 78px;
+  background-color: #ffffff;
+  z-index: 1;
+}
+
+.clients__item:last-of-type {
+  margin-right: 0;
+}
+
+.clients__item:hover {
+  transform: scale(1.5);
+  transition: transform .7s ease;
+}

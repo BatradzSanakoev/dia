@@ -1,7 +1,7 @@
 .page {
   max-width: 1600px;
   min-width: 320px;
-  margin: 0;
+  margin: 0 auto;
   background-color: #fcfcfd;
   font-family: Muli, sans-serif;
   -moz-osx-font-smoothing: grayscale;

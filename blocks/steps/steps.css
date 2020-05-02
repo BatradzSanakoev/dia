@@ -1,0 +1,16 @@
+@import url('../steps/__header/steps__header.css');
+@import url('../steps/__head/steps__head.css');
+@import url('../steps/__desc/steps__desc.css');
+@import url('../steps/__icon/steps__icon.css');
+@import url('../steps/__title/steps__title.css');
+@import url('../steps/__paragraph/steps__paragraph.css');
+@import url('../steps/__cards/steps__cards.css');
+@import url('../steps/__card/steps__card.css');
+@import url('../steps/__card-content/steps__card-content.css');
+@import url('../steps/__card-eclipse/steps__card-eclipse.css');
+@import url('../steps/__card-number/steps__card-number.css');
+@import url('../steps/__card-text/steps__card-text.css');
+
+.steps {
+  position: relative;
+}

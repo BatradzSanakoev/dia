@@ -1,0 +1,8 @@
+.steps__card {
+  position: relative;
+}
+
+.steps__card:hover {
+  transform: scale(1.5);
+  transition: transform .7s ease;
+}

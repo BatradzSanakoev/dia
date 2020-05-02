@@ -1,0 +1,14 @@
+.cards__image {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  object-fit: contain;
+  overflow: hidden;
+}
+
+
+.cards__image:hover {
+  cursor: pointer;
+  transform: rotate(360deg);
+  transition: transform 2s ease;
+}

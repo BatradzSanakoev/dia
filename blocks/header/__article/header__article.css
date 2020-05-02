@@ -1,6 +1,6 @@
 .header__article {
-  max-width: 754px;
-  margin-top: 80px;
+  max-width: 47rem;
+  margin-top: 5rem;
   margin-left: calc(100% - (754px + 521px));
   color: #ffffff;
 }

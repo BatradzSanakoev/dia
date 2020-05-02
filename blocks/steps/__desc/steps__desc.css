@@ -1,0 +1,9 @@
+.steps__desc {
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 150%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #56CCF2;
+  margin-left: 1rem;
+}

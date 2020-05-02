@@ -1,0 +1,11 @@
+@import url('./_colors/clients__ceo_colors.css');
+
+.clients__ceo {
+  margin: 0;
+  font-weight: 800;
+  font-size: 12.6px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}

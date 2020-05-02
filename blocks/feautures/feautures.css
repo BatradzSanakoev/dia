@@ -1,0 +1,18 @@
+@import url('./__content/feautures__content.css');
+@import url('./__head/feautures__head.css');
+@import url('./__icon/feautures__icon.css');
+@import url('./__desc/feautures__desc.css');
+@import url('./__title/feautures__title.css');
+@import url('./__items/feautures__items.css');
+@import url('./__item/feautures__item.css');
+@import url('./__pic/feautures__pic.css');
+@import url('./__text/feautures__text.css');
+@import url('./__eclipse/feautures__eclipse.css');
+@import url('./__green-side/feautures__green-side.css');
+
+.feautures {
+  position: relative;
+  min-height: 976px;
+  background-image: url(../../images/feautures-bg.jpg);
+  background-size: cover;
+}

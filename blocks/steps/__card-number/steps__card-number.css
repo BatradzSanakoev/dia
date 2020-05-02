@@ -1,0 +1,11 @@
+@import url('./_colors/steps__card-number_colors.css');
+
+.steps__card-number {
+  margin: 4rem 0 0;
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}

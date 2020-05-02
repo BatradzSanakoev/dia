@@ -1,0 +1,13 @@
+@import url('./__title/cta__title.css');
+@import url('./__subtitle/cta__subtitle.css');
+@import url('./__button/cta__button.css');
+
+.cta {
+  background-image: url(../../images/cta.jpg);
+  background-size: cover;
+  min-height: 608px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -5,6 +5,11 @@
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 150%;
+}
+
+.nav__link_anim:hover {
+  transform: scale(1.5);
+  transition: transform .7s linear;
 }
