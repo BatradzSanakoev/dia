@@ -1,0 +1,7 @@
+.footer__bottom {
+  margin: 136px auto 50px;
+  width: 72%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

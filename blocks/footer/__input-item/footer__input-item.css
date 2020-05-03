@@ -1,0 +1,17 @@
+@import url('./_main-text/footer__input-item_main-text.css');
+
+.footer__input-item {
+  border: 0;
+  width: 100%;
+  height: 41px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #E1E1E1;
+  background-color: transparent;
+  margin-top: 3rem;
+  font-weight: bold;
+  font-size: 0.875rem;
+  font-family: inherit;
+  line-height: 150%;
+  color: #152032;
+  padding: 0 0 18px;
+}

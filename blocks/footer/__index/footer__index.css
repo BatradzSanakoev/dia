@@ -1,0 +1,9 @@
+.footer__index {
+  margin: 0;
+  font-weight: 900;
+  font-size: 1.5rem;
+  line-height: 150%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #56CCF2;
+}

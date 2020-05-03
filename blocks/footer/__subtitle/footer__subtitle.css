@@ -1,0 +1,9 @@
+.footer__subtitle {
+  margin: 0;
+  font-weight: 800;
+  font-size: .75rem;
+  line-height: 150%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #334563;
+}

@@ -1,0 +1,27 @@
+@import url('./__columns/footer__columns.css');
+@import url('./__left-column/footer__left-column.css');
+@import url('./__right-column/footer__right-column.css');
+@import url('./__head/footer__head.css');
+@import url('./__vector-icon/footer__vector-icon.css');
+@import url('./__desc/footer__desc.css');
+@import url('./__form-container/footer__form-container.css');
+@import url('./__form/footer__form.css');
+@import url('./__input-container/footer__input-container.css');
+@import url('./__input-item/footer__input-item.css');
+@import url('./__form-button/footer__form-button.css');
+@import url('./__button/footer__button.css');
+@import url('./__bottom/footer__bottom.css');
+@import url('./__title/footer__title.css');
+@import url('./__address/footer__address.css');
+@import url('./__subtitle/footer__subtitle.css');
+@import url('./__index/footer__index.css');
+@import url('./__social-icons/footer__social-icons.css');
+@import url('./__social-link/footer__social-link.css');
+@import url('./__social-icon/footer__social-icon.css');
+@import url('./__copyright/footer__copyright.css');
+@import url('./__items/footer__items.css');
+@import url('./__item/footer__item.css');
+
+.footer {
+  padding-top: 10rem;
+}

@@ -1,0 +1,9 @@
+.footer__desc {
+  margin-left: 1rem;
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 150%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #56CCF2;
+}
